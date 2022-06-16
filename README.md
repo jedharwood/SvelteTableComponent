@@ -1,6 +1,6 @@
 # Animal Table
 
-An exercise in creating a dynamically resizable table in Svelte.js. The Breed names column will render a string array of names. As the width of the table decreases the bred names will be hidden and replaced by a badge which will show the number of names that are not displayed.
+An exercise in creating a dynamically resizable table using TypeScript and Svelte.js. The Breed names column will render a string array of names. As the width of the table decreases the bred names will be hidden and replaced by a badge which will show the number of names that are not displayed.
 
 ## Running the project
 
